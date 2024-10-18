@@ -29,8 +29,7 @@ In this tutorial, we will create a VM using Azure. <br />
 
 <h2>Actions and Observations</h2>
 
-<p>
-![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/2904ba2624f4b47bd6f09ece5570272136281c18/Screenshot%202024-10-18%2012.49.13%20PM.png)
+![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/4c143523ca6df709b601cb0578c43b2b8a4eaed5/Screenshot%202024-10-18%2012.49.13%20PM.png)
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
