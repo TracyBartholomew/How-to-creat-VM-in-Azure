@@ -1,3 +1,6 @@
+
+
+
 <h1>How to create Azure Virtual Machines</h1>
 In this tutorial, we will create a VM using Azure. <br />
 
