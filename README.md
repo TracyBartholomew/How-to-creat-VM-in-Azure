@@ -1,5 +1,4 @@
-
-
+![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/main/Screenshot%202024-10-18%201.19.17%20PM.png?raw=true)
 
 <h1>How to create Azure Virtual Machines</h1>
 In this tutorial, we will create a VM using Azure. <br />
