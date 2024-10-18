@@ -31,9 +31,7 @@ In this tutorial, we will create a VM using Azure. <br />
 
 ![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/4c143523ca6df709b601cb0578c43b2b8a4eaed5/Screenshot%202024-10-18%2012.49.13%20PM.png)
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+this section shows the initial setup of choosing the name of the VM along with login info such as choosing  user name and password 
 
 
 ![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/87b0554399058f63c78b72b3c5a03b709174b8e9/Screenshot%202024-10-18%2012.47.35%20PM.png)<p>
