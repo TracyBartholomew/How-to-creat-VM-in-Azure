@@ -43,4 +43,4 @@ this image will show picking the size of the VM It is important to pick a VM siz
 
 ![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/468ee427f95a731b8115a69debd7f3397249a803/Screenshot%202024-10-18%2012.56.58%20PM.png)
 
-
+in this image you will see after creating and launching your VM it will be able to see your VM IP address (public and private) along with other important and useful info
