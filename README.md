@@ -49,4 +49,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-
+![image alt](https://github.com/TracyBartholomew/How-to-creat-VM-in-Azure/blob/468ee427f95a731b8115a69debd7f3397249a803/Screenshot%202024-10-18%2012.56.58%20PM.png)
